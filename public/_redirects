@@ -1,0 +1,4 @@
+https://www.ficb.org/* https://www.christcentralsf.com/ficb/ 301!
+
+# Redirect default Netlify subdomain to primary domain
+https://ficb-org.netlify.app/* https://www.ficb.org/:splat 301!
